@@ -1,0 +1,14 @@
+----------------------------------------
+[1mScore : -1[0m
+Edit Distance : 7
+Possible Alignment : 2
+
+
+[1mAlignment 1:[0m
+AG[1;31mC[0mT[1;31mT[0m[1;31mC[0m[1;31mG[0m--
+--[1;31mC[0m-[1;31mT[0m[1;31mC[0m[1;31mG[0mAT
+
+[1mAlignment 2:[0m
+AG[1;31mC[0m[1;31mT[0mT[1;31mC[0m[1;31mG[0m--
+--[1;31mC[0m[1;31mT[0m-[1;31mC[0m[1;31mG[0mAT
+

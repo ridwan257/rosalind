@@ -1,0 +1,4 @@
+>Rosalind_14
+AACCGGTT
+>Rosalind_18
+ACG
